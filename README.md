@@ -23,6 +23,19 @@ I’m open to collaborating on frontend and full-stack development projects, esp
 
 
 
+---
+
+<div align="center">
+  <h2>🚀 Explore My Interactive Portfolio</h2>
+  <p><i>Step into a cinematic, scrollytelling journey built with Next.js & Framer Motion.</i></p>
+  
+  <a href="https://shiiivxnshh-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌟_VISIT_LIVE_PORTFOLIO_🌟-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio Link" />
+  </a>
+</div>
+
+---
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiiivxnshh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shiiivxnshh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanshdubey1009@gmail.com) 
